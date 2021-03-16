@@ -1,65 +1,53 @@
 let resumeData = {
-  name: "Evan Feenstra",
-  role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
+  name: "Nigel Fernandes",
+  role: "UX Designer",
+  linkedinId:"nigelfernandes-ux",
   skypeid: "Your skypeid",
-  roleDescription: "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
+  roleDescription: "I am a driven and creative UX designer experienced in working in fast-paced, team-oriented environments. I have developed a passion for technology education and combating social issues through design. I hope to apply my skills in impactful roles where I can truly accommodate users' needs and create systems and interfaces that empower the world.",
   socialLinks:[
       {
         name:"linkedin",
-        url:"https://www.linkedin.com/in/evanfeenstra",
+        url:"https://www.linkedin.com/in/nigelfernandes-ux/",
         className:"fa fa-linkedin"
       },
       {
         name:"github",
-        url:"http://github.com/",
+        url:"https://github.com/nigelfern",
         className:"fa fa-github"
       },
-      {
-        name:"skype",
-        url:"http://skype.com",
-        className:"fa fa-skype"
-      }
     ],
-  aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a Web Development position.",
+  aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a UX Designer position.",
   address:"Seattle, Washington",
   education:[
     {
       UniversityName:"University of Washington",
-      specialization:"Some specialization",
+      specialization:"HCDE",
       MonthOfPassing:"June",
-      YearOfPassing:"2019",
-      Achievements:"Some Achievements"
-    },
-    {
-      UniversityName:"Some University",
-      specialization:"Some specialization",
-      MonthOfPassing:"Jan",
-      YearOfPassing:"2018",
-      Achievements:"Some Achievements"
+      YearOfPassing:"2021",
+      Achievements: "Dean’s List Recipient, Washington NASA Space Grant Consortium Scholar."
     }
   ],
   work:[
     {
-      CompanyName:"UW ",
-      specialization:"Instructor",
-      MonthOfLeaving:"Jan",
-      YearOfLeaving:"2018",
-      Achievements:"Some Achievements"
+      CompanyName:"Accolade",
+      specialization:"Product and Technology Intern",
+      MonthOfLeaving:"August",
+      YearOfLeaving:"2020",
+      Achievements:"Worked with IT, UX, and Developer teams. Gained experience in fast-paced environment. Delivered weekly app updates to users. Helped with server maintenance and patching. Supported network of Accolade Health Assistants."
     },
     {
-      CompanyName:"Some Company",
-      specialization:"Some specialization",
-      MonthOfLeaving:"Jan",
-      YearOfLeaving:"2018",
-      Achievements:"Some Achievements"
+      CompanyName:"iD Tech",
+      specialization:"Lead Instructor",
+      MonthOfLeaving:"August",
+      YearOfLeaving:"2019",
+      Achievements:"Managed team of tech instructors. Maintained regular digital communication with off-site regional managers. Taught STEM courses on coding, robotics, engineering, game design, and web design."
     }
   ],
   skillsDescription:"My skills:",
   skills:[
     {
       skillname:"Reactjs",
-      level:100,
+      level:70,
     },
     {
       skillname:"HTML5",

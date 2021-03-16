@@ -10,17 +10,17 @@ export default class Resume extends Component {
       <section id="resume">
 
         {/* <Document
-          file="Feenstra-Resume.pdf"
+          file="Nigel-Fernandes-Resume.pdf"
         >
           <Page pageNumber={1} />
         </Document>
 
         <div className="resume-link">
-          <a href="Feenstra-Resume.pdf" target="_blank">
+          <a href="Nigel-Fernandes-Resume.pdf" target="_blank">
             <button>View PDF File</button>
           </a>
         </div> */}
-        
+
 
         <div className="row education">
 
